@@ -22,6 +22,7 @@ This outlines the lifecycle of a ticket from intake to resolution within the ope
 - Assignment and Communication
 - Working the Issue
 - Resolution
+</p>
 <img src="https://imgur.com/a/zqhfgOx.png"
 
 
