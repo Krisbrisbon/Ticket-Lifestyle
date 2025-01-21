@@ -22,12 +22,6 @@ This outlines the lifecycle of a ticket from intake to resolution within the ope
 - Assignment and Communication
 - Working the Issue
 - Resolution
-
-<h2>Lifecycle Stages</h2>
-
-<p>
-<img src="https://imgur.com/a/zqhfgOx.png" height="80%" width="80%"
-<p>
-Ran Tickets Through A VM on MacOS fully to Completion until ticket was resolved and customer was satisfied 
+<img src="https://imgur.com/a/zqhfgOx.png"
 
 
