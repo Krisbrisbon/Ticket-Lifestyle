@@ -23,6 +23,6 @@ This outlines the lifecycle of a ticket from intake to resolution within the ope
 - Working the Issue
 - Resolution
 </p>
-<img src="https://imgur.com/a/zqhfgOx.png"
+<img src="https://imgur.com/a/zqhfgOx.png" alt 
 
 
